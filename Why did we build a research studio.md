@@ -1,23 +1,8 @@
-README.md
+# Why did we build the user research studio?
 
-This is a short guide to our approach to build a low-cost user research studio.
+The main reasons we built the user research studio was to increase the amount of research with participants and reduce the amount of spending on commercial research studios.
 
-Here you'll find information about why we chose to build the studio, the studio setup and equipment used, and helpful documents for running a lab like ours, and lessons we learned.
-
-If there is anything missing, get in touch.
-
-## Why did we build the user research studio?
-
-The main reasons were to:
-
-1. to increase the amount of research with participants and
-2. reduce the amount of spending on commercial research studios.
-
-In order to do that, went out to the user research community inside and outside of government to see how others were doing it.
-
-You can read more<link> about our research into building the studio.
-
-### What are the benefits of having our own studio?
+## What are the benefits of having our own studio?
 The main benefits of building our own research studio are:
 
 - Having our own lab space will give projects more opportunity to test more iterations with users. This leads to delivering more user focused  digital services.
@@ -28,15 +13,19 @@ The main benefits of building our own research studio are:
 
 - Having labs on Home Office  buildings will reduce lots of travel to labs
 
-- Building our own lab from scratch will give us precise control over the specifications and
-
-won’t leave us dependent on whatever facilities are at existing sites.
+- Building our own lab from scratch will give us precise control over the specifications and won’t leave us dependent on whatever facilities are at existing sites.
 
 - If there are times when the lab is not being used, it could be offered to other departments which would increase x-gov community collaboration.
 
-## What are the options?
+# Research about research studios!
+We contacted and visited a number of government and commercial research studios. These ranged from small ad-hoc labs to academic labs to high-end expensive studios in Internet companies.
 
-### Option 1: Do nothing
+We learned a lot from all of these labs and are very grateful to the people who shared their expertise with us.
+
+# What did we learn - our options
+After carrying out this research, we learned a lot of things. We had 4 main options, ranging in facilities, and cost.
+
+## Option 1: Do nothing
 
 This would mean continuing to use external research studios for our usability testing sessions - a mix of commercial studio and GDS research studio time.
 
