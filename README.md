@@ -14,6 +14,6 @@ The main reasons were to:
 
 In order to do that, went out to the user research community inside and outside of government to see how others were doing it.
 
-[You can read more](https://ei8fdb.github.io/Home-Office-User-Research-Studios/Why did we build a research studio.md)) about our research into building the studio.
+[You can read more](https://ei8fdb.github.io/Home-Office-User-Research-Studios/Why did we build a research studio)) about our research into building the studio.
 
 ##The studio setup
