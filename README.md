@@ -1,4 +1,3 @@
-README.md
 
 This is a short guide to our approach to build a low-cost user research studio.
 
