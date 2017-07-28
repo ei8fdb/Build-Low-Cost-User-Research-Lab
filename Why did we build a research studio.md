@@ -23,7 +23,7 @@ We contacted and visited a number of government and commercial research studios.
 We learned a lot from all of these labs and are very grateful to the people who shared their expertise with us.
 
 # What did we learn - our options
-After carrying out this research, we learned a lot of things. We had 4 main options, ranging in facilities, and cost.
+After carrying out this research, we learned a lot of things. We had 5 main options, ranging in facilities, and cost.
 
 ## Option 1: Do nothing
 
@@ -83,7 +83,7 @@ From carrying out research with commercial studios and other government studios 
 - Ongoing commercial lab costs avoided
 - More lab access
 - Better specification will give researchers better data and reduce external need
-- On HO estate so potential T &amp; S spend reductions.
+- Located in Home Office buildings so less travel required
 - This level of spec would start to become more attractive to other departments and hence has more reuse and recharging capacity, should there be spare time available in the lab.
 
 -  Support costs
@@ -130,7 +130,7 @@ The Guardian. We can see that this affects how quickly the investment can repay 
 - Ongoing commercial lab costs avoided
 - More lab access
 - Better specification will give researchers better data and reduce external need
-- On HO estate so potential T &amp; S spend reductions.
+- Having labs on Home Office  buildings will reduce lots of travel to labs
 - Very high interest in reuse by potentially rechargeable other agencies.
 
 ### Main drawbacks
@@ -143,81 +143,26 @@ The Guardian. We can see that this affects how quickly the investment can repay 
 
 
 ## Option 5: Collaboration
-This works with any option between 2 and 4, but is obviously particularly well suited to options 3 and 4, it would reduce many of the risks, give us more accommodation options and allow us to share the costs. Basically, we could perhaps reduce the capital spend by up to 50% for any option, please see the economic case appendix for these considerations.
+This works with any option between 2 and 4, but is obviously particularly well suited to options 3 and 4, it would reduce many of the risks, give us more accommodation options and allow us to share the costs.
 
-On the downside, if we collaborate, we reduce our dedicated lab time and we will have to face the difficulties of addressing the different sets of ongoing costs and the support and governance arrangements. That said, collaborative efforts are often more resilient as they just go through on the nod, once the framework has been established. However, it may just be too long and slow to go down this route if we need the lab within the relevant time.
+On the downside, if we collaborate, we reduce our dedicated lab time.
 
+However, it may just be too long and slow to go down this route if we need the lab within the relevant time.
 
 ## What we did
 
-Concerning the two viable options there are a few remarks to be made about recommending
+Concerning the two viable options there are a few remarks to be made about recommending one or the other. In essence, it is a conflict between features and affordability.
 
-one or the other. In essence, it is a conflict between features and affordability.
+Option 2 will give us the minimum specification, it will fulfill the lowest specification requirements and because it is fairly cheap, it will give some security over the financial envelope should, for whatever unforeseen reason, the amount of costs being avoided by in-sourcing lab tests fail to materialise in the real world.
 
-Option 2 will give us the minimum specification, it will fulfil the lowest specification requirements
+It therefore poses the least risk and as an additional benefit, it will be less complex and more user friendly than the other do something options and may obviate the need to recruit a fulltime studio manager.
 
-and because it is fairly cheap, it will give some security over the financial envelope should, for
+On the downside, the level of facilities that this can offer is barely above what we might be able to get from just setting up a couple of laptops and cameras on an extemporary basis and has considerable technical risks around drivers and stability issues. Also, this would leave little budget for important other features like large screens in the observation area which is so critical for engaging stakeholders, leadership teams and project workers. Moreover, the quality of the footage captured is likely to be lower than other options and run the risk of not providing the best quality research to support developing and improving services. There must be some concerns too, over whether the quality produced by this solution would be sufficient to allow projects to avoid using external labs. If it is not then we lost a key justification for pursuing this option.
 
-whatever unforeseen reason, the amount of costs being avoided by in-sourcing lab tests fail to
+Option 3 will give us good quality feeds and the ability to install more cameras and sources. It should provide adequate quality for most researcher needs and yet still be highly affordable and pay for itself within the likely lifetime of the equipment. It would also allow us to have some of the other useful equipment in the observation area like large screen TVs, storage and other facilities as well as being more generous in terms of allowing for other spending on tools like accessibility solutions.
 
-materialise in the real world. It therefore poses the least risk and as an additional benefit, it will
+As a more highly specified lab, this would also be more capable of appealing to external users, such as other Government departments and agencies. This sort of arrangement might be amenable to recharging, so this configuration could also generate a better income stream, in principle. It also gives us a chance to prove that a lower specified lab can provide most of what user researchers require at a lower price point, which could showcase a way of saving money for other agencies.
 
-be less complex and more user friendly than the other do something options and may obviate
+There are drawbacks, it clearly won’t pay for itself as quickly as the cheaper option and represents a higher initial cost of investment. It’s not as much of a one stop shop solution as the larger lab specs provide and this still might introduce the risks of having to go external on some occasions, though this risk is much smaller than with the previous option.
 
-the need to recruit a fulltime studio manager.
-
-On the downside, the level of facilities that this can offer is barely above what we might be able
-
-to get from just setting up a couple of laptops and cameras on an extemporary basis and has
-
-considerable technical risks around drivers and stability issues. Also, this would leave little
-
-budget for important other features like large screens in the observation area which is so critical
-
-for engaging stakeholders, leadership teams and project workers. Moreover, the quality of the
-
-footage captured is likely to be lower than other options and run the risk of not providing the
-
-best quality research to support developing and improving services. There must be some
-
-concerns too, over whether the quality produced by this solution would be sufficient to allow
-
-projects to avoid using external labs. If it is not then we lost a key justification for pursuing this
-
-option.
-
-Option 3 will give us good quality feeds and the ability to install more cameras and sources. It
-
-should provide adequate quality for most researcher needs and yet still be highly affordable and
-
-pay for itself within the likely lifetime of the equipment. It would also allow us to have some of
-
-the other useful equipment in the observation area like large screen TVs, storage and other
-
-facilities as well as being more generous in terms of allowing for other spending on tools like
-
-accessibility solutions. As a more highly specified lab, this would also be more capable of
-
-appealing to external users, such as other Government departments and agencies. This sort of
-
-arrangement might be amenable to recharging, so this configuration could also generate a
-
-better income stream, in principle. It also gives us a chance to prove that a lower specified lab
-
-can provide most of what user researchers require at a lower price point, which could showcase
-
-a way of saving money for other agencies.
-
-There are drawbacks, it clearly won’t pay for itself as quickly as the cheaper option and
-
-represents a higher initial cost of investment. It’s not as much of a one stop shop solution as the
-
-larger lab specs provide and this still might introduce the risks of having to go external on some
-
-occasions, though this risk is much smaller than with the previous option. As a more
-
-sophisticated lab it is likely that it would require more technical support at greater expense and
-
-also that it may require more personnel intervention, for instance, if no lab supervisor, we might
-
-need some volunteer(s) to support the lab in a local expert role.
+As a more sophisticated lab it is likely that it would require more technical support at greater expense and also that it may require more personnel intervention, for instance, if no lab supervisor, we might need some volunteer(s) to support the lab in a local expert role.
