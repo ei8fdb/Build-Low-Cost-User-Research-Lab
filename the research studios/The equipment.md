@@ -1,7 +1,6 @@
 
 
 ### Epiphan Pearl
-Test change here
 The Epiphan Pearl ("The Pearl") is the brains of our setup. Technically, it is a production video switcher with live streaming and recording.
 
 You can create custom "picture in picture" layouts from up to four HD video sources, along with audio.
@@ -22,4 +21,4 @@ There are newer models released already so don't worry about getting this partic
 
 ## Mounting the GoPro in a case
 
-![GoPro camera connections](https://raw.githubusercontent.com/ei8fdb/Home-Office-User-Research-Studios/master/the%20research%20studios/goprocamera_small.jpeg)
+![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/goprocamera.jpg)
