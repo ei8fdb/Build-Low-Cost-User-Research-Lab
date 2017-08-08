@@ -14,7 +14,7 @@ Things to think about:
 
 - if you aren’t able to show on the day, this is very wasteful, so please try to ensure, as far as possible that you are able to use any times that you book for
 
-Like a hotel, we get the most value from the lab when it is constantly occupied.
+Like a hotel, we get the most value from the lab when it is constantly occupied. :)
 
 ## Getting access into the studio and observation room
 

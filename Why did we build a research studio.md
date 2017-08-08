@@ -7,11 +7,11 @@ The main benefits of building our own research studio are:
 
 - Having our own lab space will give projects more opportunity to test more iterations with users. This leads to delivering more user focused  digital services.
 
-- Reduce the load on the GDS user research studios. It is a wonderful, but finite resource for all of government
+- Reduce the load on the GDS user research studios. It is a wonderful, but finite resource for all of government.
 
 - Projects which have no funding for hiring commercial studios or can't access the GDS user research studio  will be able to use the lab to test their services, helping to ensure that we can improve all services.
 
-- Having labs on Home Office  buildings will reduce lots of travel to labs
+- Having labs on Home Office buildings will reduce lots of travel to labs.
 
 - Building our own lab from scratch will give us precise control over the specifications and won’t leave us dependent on whatever facilities are at existing sites.
 
@@ -155,7 +155,7 @@ Concerning the two viable options there are a few remarks to be made about recom
 
 Option 2 will give us the minimum specification, it will fulfill the lowest specification requirements and because it is fairly cheap, it will give some security over the financial envelope should, for whatever unforeseen reason, the amount of costs being avoided by in-sourcing lab tests fail to materialise in the real world.
 
-It therefore poses the least risk and as an additional benefit, it will be less complex and more user friendly than the other do something options and may obviate the need to recruit a fulltime studio manager.
+It therefore poses the least risk and as an additional benefit, it will be less complex and more user friendly than the other do something options and may obviate the need to recruit a full-time studio manager.
 
 On the downside, the level of facilities that this can offer is barely above what we might be able to get from just setting up a couple of laptops and cameras on an extemporary basis and has considerable technical risks around drivers and stability issues. Also, this would leave little budget for important other features like large screens in the observation area which is so critical for engaging stakeholders, leadership teams and project workers. Moreover, the quality of the footage captured is likely to be lower than other options and run the risk of not providing the best quality research to support developing and improving services. There must be some concerns too, over whether the quality produced by this solution would be sufficient to allow projects to avoid using external labs. If it is not then we lost a key justification for pursuing this option.
 

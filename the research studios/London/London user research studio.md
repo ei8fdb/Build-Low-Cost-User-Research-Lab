@@ -24,3 +24,12 @@ The project researcher will be responsible for testing the website is available 
 Our advice is if you haven’t used the kit before book a test session to make sure you can use the kit and that it is producing the output that you need.
 
 If you have any issues, then please contact the lab champions who will be able to support you.
+
+## Default setup
+The equipment has been set up with 2 default settings one for the classic lab arrangement where we have 2 cameras, one recording the face, the other the room and the screen of the test PC being recorded.
+
+The second arrangement is for mobile testing, where we record the mobile device under test as well as the participant’s face and the room.
+
+These are preset in the Pearl device, selecting classic lab or mobile test will result in the desired output automatically being streamed to the viewing screen and being recorded to the Pearl once the system is switched on (see guidance below).
+
+If you wish to use one of these presets, please ensure that the kit has been positioned in the appropriate space for that arrangement - see the lab arrangement guidelines below.

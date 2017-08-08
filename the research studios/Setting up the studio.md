@@ -1,5 +1,5 @@
 
-This is a checklist of what to do before and after a user research session. It is mainly to help the lab champions
+This is a checklist of what to do before and after a user research session. It is mainly to help the lab champions.
 
 ## 2-3 days before the research session
 - Confirm with the researcher the research is going ahead
@@ -20,7 +20,7 @@ NB: The microphones are battery powered, so don't forget to turn them off at the
 
 ## At the end of the research
 - First thing to do is turn off the microphones!
-- 
+-
 
 
 The equipment has been set up with 2 default settings one for the classic lab arrangement where we have 2 cameras, one recording the face, the other the room and the screen of the test PC being recorded.
