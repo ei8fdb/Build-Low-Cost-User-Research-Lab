@@ -22,4 +22,4 @@ There are newer models released already so don't worry about getting this partic
 
 ## Mounting the GoPro in a case
 
-[GoPro camera connections](goprocamera.jpeg)
+![GoPro camera connections](https://raw.githubusercontent.com/ei8fdb/Home-Office-User-Research-Studios/master/the%20research%20studios/goprocamera_small.jpeg)
