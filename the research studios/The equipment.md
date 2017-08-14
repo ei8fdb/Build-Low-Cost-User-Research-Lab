@@ -97,7 +97,7 @@ Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
 
 **NB:** GoPro cameras do not use HDCP.
 
-![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/video-converter.jpg)
+![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/video-converter.jpeg)
 **Fig 4:** Connecting the GoPro camera to the video converter and then to the Pearl
 
 We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
