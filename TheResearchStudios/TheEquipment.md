@@ -51,7 +51,7 @@ To allow us do this we purchased the [GoPro Skeleton Housing](https://shop.gopro
 
 You can see how the cables are connected to the GoPro in figure 2 below. They make your life much easier.
 
-![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/goprocamera.jpg)
+![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/goprocamera.jpg)
 
 <b>Fig 2:</b> Connecting the GoPro camera to cables using the Skeleton housing.
 
@@ -77,7 +77,7 @@ Similar to the GoPro cameras above, our requirements for the document camera wer
 - power the camera from USB cable (connected to main power)
 - output the video feed, in realtime, from the camera into the Pearl
 
-![IPEVO VZ-1 camera](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/ipevo-vz-1.jpg)
+![IPEVO VZ-1 camera](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/ipevo-vz-1.jpg)
 **Fig 3:** Connecting the IPEVO VZ-1 camera to the Pearl
 
 The IPEVO VZ-1 camera can be plugged into a video display (in our example, the Pearl). It is also powered from USB.
@@ -97,7 +97,7 @@ Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
 
 **NB:** GoPro cameras do not use HDCP.
 
-![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/the%20research%20studios/video-converter.jpeg)
+![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/video-converter.jpeg)
 **Fig 4:** Connecting the GoPro camera to the video converter and then to the Pearl
 
 We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
