@@ -31,7 +31,7 @@ Because we can't guarantee people who we test with are comfortable with using a 
 
 We've used a standard USB optical mouse with a full-sized external keyboard.
 
-![Macbook showing connections with external monitor, keyboard, and mouse](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/macbook-connections.jpg)  
+![Macbook showing connections with external monitor, keyboard, and mouse](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/macbook-connections.jpeg)  
 **Fig 1:** Connecting the Macbook to external monitor, keyboard, mouse, USB hub and Pearl.
 
 # Storing research sessions
@@ -79,7 +79,7 @@ To allow us do this we purchased the [GoPro Skeleton Housing](https://shop.gopro
 
 You can see how the cables are connected to the GoPro in figure 2 below. They make your life much easier.
 
-![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/goprocamera.jpg)  
+![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/goprocamera.jpg)   
 **Fig 2:** Connecting the GoPro camera to cables using the Skeleton housing.
 
 We then connected the camera to the [GoPro Swivel Mount](https://shop.gopro.com/mounts/swivel-mount/ABJQR-001.html) and the [GoPro Curved Flat Adhesive mount](https://shop.gopro.com/EMEA/mounts/curved-plus-flat-adhesive-mounts/AACFT-001.html) to stick the camera to the table once we had positioned it.
