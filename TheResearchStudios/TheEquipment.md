@@ -12,7 +12,25 @@ The Pearl can store approximately 1,000 1-hour long video sessions.
 
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
-See [figure 7](#Fig 7) above.
+# The testing computer
+
+We're building the research lab to test digital things! So we need a computer to test things on.
+
+We've chosen a reasonable spec'ed Macbook, but you could use any computer you wish.
+
+We chose a Macbook as:
+
+- thats what we use in the office for research and design
+- Macbooks have good support for HDMI, VGA, and many other video outputs
+- installing prototypes using the [GDS prototyping kit](https://github.com/alphagov/govuk_prototype_kit) is very simple on OS X
+
+**NB:** If you choose to use a different computer than a Macbook you may need different video and audio adapters than what I've documented here.
+
+## Turn the Macbook into a desktop
+Because we can't guarantee people who we test with are comfortable with using a laptop computer, we've decided to set the Macbook up with an external monitor, keyboard and mouse.
+
+We've used a standard USB optical mouse with a fullsized external keyboard.
+
 
 # Storing research sessions
 
@@ -181,12 +199,12 @@ This means that we need to use 2 audio adapters which change:
 2. splits the stereo from 1 audio plug into 2 - one for right and one for left.
 
 ![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)  
-<a name="fig 7">**Fig 7:**</a> Connecting Samson USB Go Mic to Pearl
+**Fig 7:**</a> Connecting Samson USB Go Mic to Pearl
 
 ##### Change audio plug size
 To change audio jack size (1 above) we used a [6.35mm Gold Stereo Plug to 3.5mm Stereo Socket Adapter](https://www.maplin.co.uk/p/635mm-gold-stereo-plug-to-35mm-stereo-socket-adapter-n89an), which we bought from Maplin, but are available from lots of other shops.
 
-See [figure 7](#Fig 7) above.
+See figure 7 above.
 
 ##### Split audio into Left and Right
 To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Female to Twin Mono 1/4 Inch Jack Male Adapter](
