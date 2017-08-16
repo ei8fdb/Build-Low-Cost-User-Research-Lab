@@ -179,12 +179,12 @@ This means that we need to use 2 audio adapters which change:
 2. splits the stereo from 1 audio plug into 2 - one for right and one for left.
 
 ![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)  
-**Fig 7:** Connecting Samson USB Go Mic to Pearl
+<a name="fig 7">**Fig 7:**</a> Connecting Samson USB Go Mic to Pearl
 
 ##### Change audio plug size
 To change audio jack size (1 above) we used a [6.35mm Gold Stereo Plug to 3.5mm Stereo Socket Adapter](https://www.maplin.co.uk/p/635mm-gold-stereo-plug-to-35mm-stereo-socket-adapter-n89an), which we bought from Maplin, but are available from lots of other shops.
 
-See figure 7 above.
+See [figure 7](#Fig 7) above.
 
 ##### Split audio into Left and Right
 To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Female to Twin Mono 1/4 Inch Jack Male Adapter](
