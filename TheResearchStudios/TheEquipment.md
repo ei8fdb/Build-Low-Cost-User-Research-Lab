@@ -1,7 +1,8 @@
 
+# The brain of the setup
 
 ## Epiphan Pearl
-The Epiphan Pearl ("The Pearl") is the brains of our setup. Technically, it is a video switcher with live streaming and recording.
+The Epiphan Pearl ("The Pearl") is the brain of our setup. Technically, it is a video switcher with live streaming and recording.
 
 You can create custom "picture in picture" layouts from up to four HD video sources, along with audio.
 
@@ -11,6 +12,7 @@ The Pearl can store approximately 1,000 1-hour long video sessions.
 
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
+# Storing research sessions
 
 ## Buffalo Drivestation 4TB USB hard disk (Optional)
 Using an external USB storage device is optional - if you do not need to store a lot of video them you can ignore this step.
@@ -108,35 +110,88 @@ This allowed us to use all 4 video devices.
 
 
 # Recording audio
-Add some intro here.
-
-## Microphones
 Like the video recording, we need a way to record what the participant and facilitator are saying during the research session.
-
-Similar to the GoPro cameras we've called the microphones ("chair-mic"), and the facilitator, participant's discussion in the seating area ("chair-mic").
 
 Our requirements for recording video were to be able to:
 
 - power the camera from USB cable
 - output the audio feed, in realtime, from the microphone into the Pearl
 
+## Microphones
+
+Similar to the GoPro cameras we've called the microphones ("chair-mic"), and the facilitator, participant's discussion in the seating area ("chair-mic").
+
 ### Recording audio is hard
 Working with audio is very difficult - it is prone to lots of types of interference - electrical noise, air conditioning, noise from the street.
 
-Ideally you should try to:
+There are some ways of dealing with these problems:
 
-- insulate your research studio from external noise to make the environment as quiet as possible
-- use electronic equipment like a noise filter and a noise cancellor
+#### Insulate your research studio
+Insulate your research studio from external noise to make the environment as quiet as possible.
 
 This can potentially mean some building work to install the insulation, but if your environment is noisy, it can save future heartache.
 
+You can read more about noise insulation and lighting recommendations in [the noise and lighting guidance section](HTTP://ADDLINK).
+
+#### Use specialist equipment
+You can use specialist noise cancelling or noise filtering equipment to supress unwanted noise.
+
+Using this type of specialist equipment is beyond the scope of this guide.
+
+If you would like some help with this, please discuss it.
+
+#### Get control of the environment
+If possible, make sure that you can control air conditioning units, and other noisy devices from the research studio. This allows you to turn them off when necessary.
 
 
-### Iteration 1 - failed
-Originally we tried using low-cost "Omnidirectional Condenser" Boundary microphones from Audio Technica but the audio
+### Audio iteration 1 - failed
+Originally we tried using low-cost [Omnidirectional Condenser Boundary microphones from Audio Technica](http://www.audio-technica.com/cms/wired_mics/037052449aa233dc/index.html).
 
-http://www.audio-technica.com/cms/wired_mics/037052449aa233dc/index.html
+These microphones are battery powered and reasonably cheap. However, they provided no amplification, or noise filtering of the audio and so the audio quality was very low.
 
-We purchased 3 GoPro Hero 3 cameras as they had a micro-HDMI video out and could be powered with a mini-USB cable plugged into power.
+Seeing as audio recording is probably more important than the video quality, this was a big issue - without good audio quality our recordings are essentially useless.
 
-There are newer models released already so don't worry about getting this particular model.
+### Audio iteration 2 - so far so good
+Taking some advice from my user researcher colleague in Sheffield, I tried using one of her [Samson Go Mic portable USB microphones](http://www.samsontech.com/samson/products/microphones/usb-microphones/gomic/). She had used it with great success in previous projects.
+
+It is USB device which is connected to a computer using its USB port. It also has a 3.5mm audio connection.
+
+![Samson USB Go Mic](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone.jpeg)
+
+  **Fig 4:** Samson USB Go Mic
+
+#### Mic to Macbook connection
+We connect the microphone to the Macbook using the USB port.
+
+The microphone then shows up on the computer as an external microphone.
+
+This allows us to use the microphone instead of the internal mic.
+
+![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)
+
+  **Fig 5:** Connecting Samson USB Go Mic to Macbook
+
+#### Mic to Pearl connection
+We then connect the audio output from the mic to the Pearl.
+
+The Pearl has 2 sets of "6.35 inch left/right balanced" audio connections.
+
+This means that we need to use 2 audio adapters which change:
+
+1. size from 3.5mm (on the microphone) to 1/4 inch (on the Pearl)
+2. splits the stereo from 1 audio plug into 2 - one for right and one for left.
+
+![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)
+
+  **Fig 5:** Connecting Samson USB Go Mic to Pearl
+
+##### Change audio plug size
+To change audio jack size (1 above) we used a [6.35mm Gold Stereo Plug to 3.5mm Stereo Socket Adapter](https://www.maplin.co.uk/p/635mm-gold-stereo-plug-to-35mm-stereo-socket-adapter-n89an), which we bought from Maplin, but are available from lots of other shops.
+
+See figure 5 above.
+
+##### Split audio into Left and Right
+To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Female to Twin Mono 1/4 Inch Jack Male Adapter](
+https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inch-jack-male-adapter-a51xg), again from Maplin.
+
+See figure 5 above.
