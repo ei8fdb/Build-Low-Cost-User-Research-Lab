@@ -8,7 +8,7 @@ You can create custom "picture in picture" layouts from up to four HD video sour
 
 You can record these video layouts, while simultaneously streaming 1080p video streams at high quality.
 
-The Pearl can store approximately 1,000 1-hour long video sessions.
+The Pearl can store approximately 1,000 1-hour long video sessions, on its internal harddisk.
 
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
@@ -26,16 +26,20 @@ We chose a Macbook as:
 
 **NB:** If you choose to use a different computer than a Macbook you may need different video and audio adapters than what I've documented here.
 
-## Turn the Macbook into a desktop
+## Turning the Macbook into a desktop
 Because we can't guarantee people who we test with are comfortable with using a laptop computer, we've decided to set the Macbook up with an external monitor, keyboard and mouse.
 
-We've used a standard USB optical mouse with a fullsized external keyboard.
+We've used a standard USB optical mouse with a full-sized external keyboard.
 
+![Macbook showing connections with external monitor, keyboard, and mouse](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/macbook-connections.jpg)  
+**Fig 1:** Connecting the Macbook to external monitor, keyboard, mouse, USB hub and Pearl.
 
 # Storing research sessions
 
-## Buffalo Drivestation 4TB USB hard disk (Optional)
+## Buffalo Drivestation 5TB USB hard disk (Optional)
 Using an external USB storage device is optional - if you do not need to store a lot of video them you can ignore this step.
+
+This hard disk can store 5,000 1-hour long video sessions, in addition to the 1,000 stored by the Pearl.
 
 We chose the [Buffalo Drivestation 4TB hard disk](http://www.buffalotech.com/products/drivestation) for the storage vs. price value. **Any USB storage device can be used.**
 
