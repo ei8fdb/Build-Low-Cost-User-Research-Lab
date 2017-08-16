@@ -25,6 +25,8 @@ We used a USB storage device as:
 ### Configure the Pearl for using USB storage
 You can configure the Pearl via the web interface to use USB storage.
 
+# Reording video
+Add some intro here.
 
 ## Go Pro Hero camera
 We needed a way to record video images of 1) the participant's facial expressions ("The FaceCam"), and the facilitator, participant's discussion in the seating area ("ChairCam").
@@ -103,3 +105,38 @@ Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
 We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
 
 This allowed us to use all 4 video devices.
+
+
+# Recording audio
+Add some intro here.
+
+## Microphones
+Like the video recording, we need a way to record what the participant and facilitator are saying during the research session.
+
+Similar to the GoPro cameras we've called the microphones ("chair-mic"), and the facilitator, participant's discussion in the seating area ("chair-mic").
+
+Our requirements for recording video were to be able to:
+
+- power the camera from USB cable
+- output the audio feed, in realtime, from the microphone into the Pearl
+
+### Recording audio is hard
+Working with audio is very difficult - it is prone to lots of types of interference - electrical noise, air conditioning, noise from the street.
+
+Ideally you should try to:
+
+- insulate your research studio from external noise to make the environment as quiet as possible
+- use electronic equipment like a noise filter and a noise cancellor
+
+This can potentially mean some building work to install the insulation, but if your environment is noisy, it can save future heartache.
+
+
+
+### Iteration 1 - failed
+Originally we tried using low-cost "Omnidirectional Condenser" Boundary microphones from Audio Technica but the audio
+
+http://www.audio-technica.com/cms/wired_mics/037052449aa233dc/index.html
+
+We purchased 3 GoPro Hero 3 cameras as they had a micro-HDMI video out and could be powered with a mini-USB cable plugged into power.
+
+There are newer models released already so don't worry about getting this particular model.
