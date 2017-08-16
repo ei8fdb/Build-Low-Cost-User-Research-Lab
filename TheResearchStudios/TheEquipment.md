@@ -12,6 +12,8 @@ The Pearl can store approximately 1,000 1-hour long video sessions.
 
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
+See [figure 7](#Fig 7) above.
+
 # Storing research sessions
 
 ## Buffalo Drivestation 4TB USB hard disk (Optional)
