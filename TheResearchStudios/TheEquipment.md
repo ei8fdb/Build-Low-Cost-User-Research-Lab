@@ -1,6 +1,6 @@
 # Block diagram
 
-![Research studio block diagram](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/research-studio-block-diagram.jpeg)  
+![Research studio block diagram](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/research-studio-block-diagram.jpg)  
 **Fig 0:** Research studio block diagram.
 
 # The brain of the setup
