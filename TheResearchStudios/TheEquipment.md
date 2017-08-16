@@ -55,9 +55,8 @@ To allow us do this we purchased the [GoPro Skeleton Housing](https://shop.gopro
 
 You can see how the cables are connected to the GoPro in figure 2 below. They make your life much easier.
 
-![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/goprocamera.jpg)
-
-<b>Fig 2:</b> Connecting the GoPro camera to cables using the Skeleton housing.
+![GoPro camera connections](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/goprocamera.jpg)  
+**Fig 2:** Connecting the GoPro camera to cables using the Skeleton housing.
 
 We then connected the camera to the [GoPro Swivel Mount](https://shop.gopro.com/mounts/swivel-mount/ABJQR-001.html) and the [GoPro Curved Flat Adhesive mount](https://shop.gopro.com/EMEA/mounts/curved-plus-flat-adhesive-mounts/AACFT-001.html) to stick the camera to the table once we had positioned it.
 
@@ -81,14 +80,14 @@ Similar to the GoPro cameras above, our requirements for the document camera wer
 - power the camera from USB cable (connected to main power)
 - output the video feed, in realtime, from the camera into the Pearl
 
-![IPEVO VZ-1 camera](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/ipevo-vz-1.jpg)
+![IPEVO VZ-1 camera](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/ipevo-vz-1.jpg)  
 **Fig 3:** Connecting the IPEVO VZ-1 camera to the Pearl
 
 The IPEVO VZ-1 camera can be plugged into a video display (in our example, the Pearl). It is also powered from USB.
 
 The VZ-1 was plugged into one of the Pearl VGA video inputs.
 
-## HDMI Male to Female VGA Adapter Video Converter
+### HDMI Male to Female VGA Adapter Video Converter
 
 **IMPORTANT:** Some devices with HDMI connections require video converters with HDCP support in order to convert from HDMI to VGA. Before you buy a converter check to see if the device you want to convert uses HDCP.
 
@@ -101,7 +100,7 @@ Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
 
 **NB:** GoPro cameras do not use HDCP.
 
-![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/video-converter.jpeg)
+![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/video-converter.jpeg)  
 **Fig 4:** Connecting the GoPro camera to the video converter and then to the Pearl
 
 We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
@@ -156,9 +155,8 @@ Taking some advice from my user researcher colleague in Sheffield, I tried using
 
 It is USB device which is connected to a computer using its USB port. It also has a 3.5mm audio connection.
 
-![Samson USB Go Mic](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone.jpeg)
-
-  **Fig 4:** Samson USB Go Mic
+![Samson USB Go Mic](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone.jpeg)  
+**Fig 5:** Samson USB Go Mic
 
 #### Mic to Macbook connection
 We connect the microphone to the Macbook using the USB port.
@@ -167,9 +165,8 @@ The microphone then shows up on the computer as an external microphone.
 
 This allows us to use the microphone instead of the internal mic.
 
-![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)
-
-  **Fig 5:** Connecting Samson USB Go Mic to Macbook
+![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)  
+**Fig 6:** Connecting Samson USB Go Mic to Macbook
 
 #### Mic to Pearl connection
 We then connect the audio output from the mic to the Pearl.
@@ -181,17 +178,16 @@ This means that we need to use 2 audio adapters which change:
 1. size from 3.5mm (on the microphone) to 1/4 inch (on the Pearl)
 2. splits the stereo from 1 audio plug into 2 - one for right and one for left.
 
-![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)
-
-  **Fig 5:** Connecting Samson USB Go Mic to Pearl
+![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)  
+**Fig 7:** Connecting Samson USB Go Mic to Pearl
 
 ##### Change audio plug size
 To change audio jack size (1 above) we used a [6.35mm Gold Stereo Plug to 3.5mm Stereo Socket Adapter](https://www.maplin.co.uk/p/635mm-gold-stereo-plug-to-35mm-stereo-socket-adapter-n89an), which we bought from Maplin, but are available from lots of other shops.
 
-See figure 5 above.
+See figure 7 above.
 
 ##### Split audio into Left and Right
 To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Female to Twin Mono 1/4 Inch Jack Male Adapter](
 https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inch-jack-male-adapter-a51xg), again from Maplin.
 
-See figure 5 above.
+See figure 7 above.

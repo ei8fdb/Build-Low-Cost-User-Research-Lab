@@ -22,6 +22,15 @@ After our research to work out what was possible, we chose our Option 2: Build a
 ### How did we build the lab?
 We spent a number of weeks
 
+Here you can find some information on the insulation and lighting guidance for the research studio room.
+
+I've written a [description of each piece of the equipment](../TheResearchStudios/TheEquipment.md) we used to build the lab.
+
+Here you can find a the equipment list, with prices and suppliers in spreadsheet format.
+
+Here you can find a step-by-step guide for connecting everything together.
+
+Here you can find some information on how to configure the Pearl.
 
 
 equipment list
