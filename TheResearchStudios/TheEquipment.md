@@ -227,6 +227,22 @@ See figure 7 above.
 
 # User research studio private network
 ------
+In order for the the user research sessions to be viewable by the observers we set-up a network.
+
+We used an off-the-shelf network router. We put this in the user research studio and connected the Pearl.
+
+In order to connect the Observation room computer to the private network there are two main options.
+
+Depending on your circumstances you can either use Ethernet or WiFi.
+
+## Option 1 - using Ethernet
+
+![Observation room set-up](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/observation-room-option1.jpg)  
+**Fig 8:** Option 1 - using Ethernet cabling to connect the Observation room computer
+
+## Option 2 - using WiFi
+![Observation room set-up](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/observation-room-option2.jpg)  
+**Fig 8:** Option 2 - using WiFi cabling to connect the Observation room computer
 
 
 # Observation room
@@ -268,3 +284,6 @@ Having this stand allowed us the freedom to move the display to different rooms 
 Connecting the laptop to the TV was pretty easy - we used the HDMI output from the laptop and connected it to the TV's HDMI input.
 
 After a little bit of fiddling with dimensions, it worked.
+
+![Observation room set-up](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/observation-room.jpg)  
+**Fig 8:** Observation room set-up
