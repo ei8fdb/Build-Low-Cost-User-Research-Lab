@@ -58,7 +58,7 @@ We used a USB storage device as:
 ### Configure the Pearl for using USB storage
 You can configure the Pearl via the web interface to use USB storage.
 
-# Reording video
+# Recording video
 ------
 Add some intro here.
 
@@ -224,6 +224,10 @@ To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Femal
 https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inch-jack-male-adapter-a51xg), again from Maplin.
 
 See figure 7 above.
+
+# User research studio private network
+------
+
 
 # Observation room
 ------
