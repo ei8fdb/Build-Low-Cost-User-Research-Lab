@@ -4,7 +4,7 @@
 **Fig 0:** Research studio block diagram.
 
 # The brain of the setup
-------
+
 
 ## Epiphan Pearl
 The Epiphan Pearl ("The Pearl") is the brain of our setup. Technically, it is a video switcher with live streaming and recording.
@@ -18,7 +18,6 @@ The Pearl can store approximately 1,000 1-hour long video sessions, on its inter
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
 # The testing computer
--------
 
 We're building the research lab to test digital things! So we need a computer to test things on.
 
@@ -41,7 +40,6 @@ We've used a standard USB optical mouse with a full-sized external keyboard.
 **Fig 1:** Connecting the Macbook to external monitor, keyboard, mouse, USB hub and Pearl.
 
 # Storing research sessions
-------
 
 ## Buffalo Drivestation 5TB USB hard disk (Optional)
 Using an external USB storage device is optional - if you do not need to store a lot of video them you can ignore this step.
@@ -59,7 +57,6 @@ We used a USB storage device as:
 You can configure the Pearl via the web interface to use USB storage.
 
 # Recording video
-------
 Add some intro here.
 
 ## Go Pro Hero camera
@@ -80,7 +77,6 @@ The most important thing to remember is: you do not need to use a memory card wi
 The camera will not be recording any video - it will go directly to the Pearl.
 
 ### Mounting the GoPro in a case
-
 As mentioned above, we need to 1) output the GoPro video to the Pearl and 2) power the GoPro from the USB port.
 
 To allow us do this we purchased the [GoPro Skeleton Housing](https://shop.gopro.com/EMEA/accessories-2/skeleton-housing/AHSSK-301.html) for each camera. These are camera cases with holes cut out for the cables already.
@@ -93,6 +89,27 @@ You can see how the cables are connected to the GoPro in figure 2 below. They ma
 We then connected the camera to the [GoPro Swivel Mount](https://shop.gopro.com/mounts/swivel-mount/ABJQR-001.html) and the [GoPro Curved Flat Adhesive mount](https://shop.gopro.com/EMEA/mounts/curved-plus-flat-adhesive-mounts/AACFT-001.html) to stick the camera to the table once we had positioned it.
 
 This allowed us to change the point of view of the camera, but keep it secure.
+
+### Powering the cameras
+
+### HDMI Male to Female VGA Adapter Video Converter
+**IMPORTANT:** Some devices with HDMI connections require video converters with HDCP support in order to convert from HDMI to VGA. Before you buy a converter check to see if the device you want to convert uses HDCP.
+
+The Pearl has 4 video inputs we can use - 2 VGA and 2 HDMI - this means you can record from 4 video devices.
+
+Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
+
+- convert one GoPro camera HDMI video to VGA
+- connect it to the Pearl.
+
+**NB:** GoPro cameras do not use HDCP.
+
+![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/video-converter.jpeg)  
+**Fig 4:** Connecting the FaceCam GoPro camera to the video converter and then to the Pearl
+
+We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
+
+This allowed us to use all 4 video devices.
 
 
 ## IPEVO VZ-1 VGA/USB Document camera
@@ -119,29 +136,7 @@ The IPEVO VZ-1 camera can be plugged into a video display (in our example, the P
 
 The VZ-1 was plugged into one of the Pearl VGA video inputs.
 
-### HDMI Male to Female VGA Adapter Video Converter
-
-**IMPORTANT:** Some devices with HDMI connections require video converters with HDCP support in order to convert from HDMI to VGA. Before you buy a converter check to see if the device you want to convert uses HDCP.
-
-The Pearl has 4 video inputs we can use - 2 VGA and 2 HDMI - this means you can record from 4 video devices.
-
-Because we had 3 HDMI video devices and 1 VGA - our requirements were to:
-
-- convert one GoPro camera HDMI video to VGA
-- connect it to the Pearl.
-
-**NB:** GoPro cameras do not use HDCP.
-
-![HDMI to VGA video converter](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/video-converter.jpeg)  
-**Fig 4:** Connecting the GoPro camera to the video converter and then to the Pearl
-
-We bought [a HDMI to VGA video adapter](https://www.maplin.co.uk/p/maplin-microministandard-hdmi-male-to-female-vga-adapter-n58nx) and connected the GoPro HDMI output to it, and then connected the VGA output to the Pearl.
-
-This allowed us to use all 4 video devices.
-
-
 # Recording audio
-------
 Like the video recording, we need a way to record what the participant and facilitator are saying during the research session.
 
 Our requirements for recording video were to be able to:
@@ -150,7 +145,6 @@ Our requirements for recording video were to be able to:
 - output the audio feed, in realtime, from the microphone into the Pearl
 
 ## Microphones
-
 Similar to the GoPro cameras we've called the microphones ("chair-mic"), and the facilitator, participant's discussion in the seating area ("chair-mic").
 
 ### Recording audio is hard
@@ -226,7 +220,6 @@ https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inc
 See figure 7 above.
 
 # User research studio private network
-------
 In order for the the user research sessions to be viewable by the observers we set-up a network.
 
 We used an off-the-shelf network router. We put this in the user research studio and connected the Pearl.
@@ -236,7 +229,6 @@ In order to connect the Observation room computer to the private network there a
 Depending on your circumstances you can either use Ethernet or WiFi.
 
 ## Option 1 - using Ethernet
-
 ![Observation room set-up](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/observation-room-option1.jpg)  
 **Fig 8:** Option 1 - using Ethernet cabling to connect the Observation room computer
 
@@ -246,7 +238,6 @@ Depending on your circumstances you can either use Ethernet or WiFi.
 
 
 # Observation room
-------
 Once you've got the research studio up and running, you need some place to observe all the research!
 
 ## Classic approach
@@ -287,3 +278,26 @@ After a little bit of fiddling with dimensions, it worked.
 
 ![Observation room set-up](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/observation-room.jpg)  
 **Fig 8:** Observation room set-up
+
+
+# Furniture
+
+Ikea cabinet
+
+
+Klippan 2 seat sofa - £149
+http://www.ikea.com/gb/en/products/sofas-armchairs/fabric-sofas/klippan-two-seat-sofa-flackarp-grey-spr-99010613/
+
+Tullsta armchair x2 - £160 (£80 each)
+http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/tullsta-armchair-ransta-dark-grey-art-80322228/
+
+Hemnes coffee table - £90
+http://www.ikea.com/gb/en/products/tables/coffee-side-tables/hemnes-coffee-table-white-stain-art-30176286/
+
+Ikea PS Cabinet (to replace the over-sized cabinet currently in the room) - £70 http://www.ikea.com/gb/en/products/storage-furniture/cabinets-sideboards/ikea-ps-cabinet-white-art-10251451/
+
+Floor uplighter - £28 (£14 each)
+http://www.ikea.com/gb/en/products/lighting/floor-lamps/not-floor-uplighter-reading-lamp-black-white-art-70324671/
+
+Total costs for all of the furniture comes to:
+£149 + £160 + £90 +£70 + £28 = £497
