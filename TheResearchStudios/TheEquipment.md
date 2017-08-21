@@ -4,6 +4,7 @@
 **Fig 0:** Research studio block diagram.
 
 # The brain of the setup
+------
 
 ## Epiphan Pearl
 The Epiphan Pearl ("The Pearl") is the brain of our setup. Technically, it is a video switcher with live streaming and recording.
@@ -17,6 +18,7 @@ The Pearl can store approximately 1,000 1-hour long video sessions, on its inter
 If more video sessions need to be stored, the Pearl has USB connections so external storage can be connected.
 
 # The testing computer
+-------
 
 We're building the research lab to test digital things! So we need a computer to test things on.
 
@@ -39,6 +41,7 @@ We've used a standard USB optical mouse with a full-sized external keyboard.
 **Fig 1:** Connecting the Macbook to external monitor, keyboard, mouse, USB hub and Pearl.
 
 # Storing research sessions
+------
 
 ## Buffalo Drivestation 5TB USB hard disk (Optional)
 Using an external USB storage device is optional - if you do not need to store a lot of video them you can ignore this step.
@@ -56,6 +59,7 @@ We used a USB storage device as:
 You can configure the Pearl via the web interface to use USB storage.
 
 # Reording video
+------
 Add some intro here.
 
 ## Go Pro Hero camera
@@ -91,10 +95,10 @@ We then connected the camera to the [GoPro Swivel Mount](https://shop.gopro.com/
 This allowed us to change the point of view of the camera, but keep it secure.
 
 
-## IPEVO VZ-1 VGA/USB Dual-Mode Document camera
+## IPEVO VZ-1 VGA/USB Document camera
 The [IPEVO VZ-1 camera](https://www.ipevo.com/prods/IPEVO-VZ-1-HD-VGA-USB-Document-Camera) is a document camera (sometimes called a "visualiser").
 
-It is a real-time image capture camera - it allows you to put something on the table and then top display it on a computer screen.
+It is a real-time image capture camera - it allows you to put something on the table and then top display it on a computer screen - we've called this the "DocCam".
 
 During user research sessions we sometimes need to test with things which are not on computer such as:
 
@@ -137,6 +141,7 @@ This allowed us to use all 4 video devices.
 
 
 # Recording audio
+------
 Like the video recording, we need a way to record what the participant and facilitator are saying during the research session.
 
 Our requirements for recording video were to be able to:
@@ -219,3 +224,43 @@ To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Femal
 https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inch-jack-male-adapter-a51xg), again from Maplin.
 
 See figure 7 above.
+
+# Observation room
+------
+Once you've got the research studio up and running, you need some place to observe all the research!
+
+## Classic approach
+In classic usability testing lab setups this would be achieved using the standard [one-way mirror](https://en.wikipedia.org/wiki/One-way_mirror).
+
+This approach is expensive, and can lead to [negative effects in the research](http://www.uxmatters.com/mt/archives/2011/06/the-myth-of-the-one-way-mirror.php).
+
+## Alternative approach
+We chose to use the Pearl's inbuilt capability to stream audio and HD video while simultaneously recording the video for later analysis.
+
+### The stream
+The simplest, and most cost affective way to receive the Pearl video and audio stream was to use a low cost computer. We chose a Windows laptop with WiFi and Ethernet connectivity, good graphics and memory capability.
+
+This computer would be connected to the User Research Studio private network - either using WiFi or using an Ethernet cable, whichever is available to you.
+
+A little tip: if possible try to use an Ethernet connection between the Pearl and the observation room laptop.
+
+It is more capable at handling high quality video and audio better than WiFi.
+
+### The audio
+The low quality internal speakers in the laptop would not be suitable to listen to the research session audio.
+
+We therefore purchased a set of [Logitech Z333 PC speakers](https://www.amazon.co.uk/Logitech-Z333-Multimedia-Speakers-Black/dp/B00YR92VMA). We plugged these into the laptop to give better audio.
+
+### Displaying the video stream
+Obviously the laptop screen would not be suitable for a number of observers to view the research session as it is too small.
+
+To try and replicate the "life sized" viewing of the one-way mirror approach we invested in a high quality, large TV screen, with multiple video inputs - HDMI, VGA, etc.
+
+We chose the 75 inch Panasonic and also purchased the associated stand.
+
+Having this stand allowed us the freedom to move the display to different rooms as needed.
+
+### Connecting the laptop and the TV
+Connecting the laptop to the TV was pretty easy - we used the HDMI output from the laptop and connected it to the TV's HDMI input.
+
+After a little bit of fiddling with dimensions, it worked.
