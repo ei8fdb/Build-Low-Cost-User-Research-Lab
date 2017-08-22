@@ -29,6 +29,8 @@ Main steps are:
 1. Set the Pearl up in the Ikea PS Cabinet
 2. Plug in power
 
+Configuring the Pearl will be covered later.
+
 ## Testing computer, keyboard, mouse and display
 
 The next thing is to set up the equipment your participants will use.
@@ -81,4 +83,38 @@ The IPEVO VZ-1 camera can be plugged into a video display (in our example, the P
 
 The VZ-1 was plugged into one of the Pearl VGA video inputs.
 
-## Microphone
+## Microphone (Desk microphone)
+The desk microphone comes with a self-adhesive stand which can be placed on the desk in front of the display to pick up the participants voice.
+
+**Tip:** Until you have everything setup, don't stick the mic to the table.
+
+### Powering the microphone
+The desk microphone will be powered by plugging it into the Macbook, using a USB cable.
+
+**Tip:** you may need to purchase a longer USB cable dependin on the distance between the mico and the Macbook.
+
+### Connecting to the Pearl
+The desk microphone is connected to the Pearl using an stereo cable and audio adapters.
+
+![Connecting Samson USB Go Mic to Macbook](https://github.com/ei8fdb/Home-Office-User-Research-Studios/raw/master/TheResearchStudios/samson-go-microphone-connection-to-adapter-to-pearl.jpeg)  
+**Fig 7:**</a> Connecting Samson USB Go Mic to Pearl
+
+##### Change audio plug size
+To change audio jack size (1 above) we used a [6.35mm Gold Stereo Plug to 3.5mm Stereo Socket Adapter](https://www.maplin.co.uk/p/635mm-gold-stereo-plug-to-35mm-stereo-socket-adapter-n89an), which we bought from Maplin, but are available from lots of other shops.
+
+See figure 7 above.
+
+##### Split audio into Left and Right
+To split the audio from 1 to 2 plugs I used a [ProSound Mono 1/4 Inch Jack Female to Twin Mono 1/4 Inch Jack Male Adapter](
+https://www.maplin.co.uk/p/prosound-mono-14-inch-jack-female-to-twin-mono-14-inch-jack-male-adapter-a51xg), again from Maplin.
+
+See figure 7 above.
+
+## Microphone (Chair mic)
+The chair mic is set up in the same way.
+
+### Powering the
+Again depending on the distance from the Macbook, you'll need a longer USB cable to connect it to the Macbook - again this will also power the mic.
+
+### Connecting to the Pearl
+This mic is connected to the Pearl in the same way as the DeskMic
