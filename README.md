@@ -26,8 +26,10 @@ Here you can find some information on the insulation and lighting guidance for t
 
 I've written a [description of each piece of the equipment](https://ei8fdb.github.io/Build-Low-Cost-User-Research-Lab/TheResearchStudios/TheEquipment) we used to build the lab.
 
-**Coming soon:** Here you can find a the equipment list, with prices and suppliers in spreadsheet format.
-
 Here you can find [a step-by-step guide for connecting everything together](https://ei8fdb.github.io/Build-Low-Cost-User-Research-Lab/TheResearchStudios/Equipment-Setup-Step-By-Step-Guide).
 
+**Coming soon:** Here you can find a the equipment list, with prices and suppliers in spreadsheet format.
+
 **Coming soon:** Here you can find some information on how to configure the Pearl.
+
+**Coming soon:** An example of the video outputs from the lab
