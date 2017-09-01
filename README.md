@@ -1,4 +1,4 @@
-
+## Build a low cost user research lab, for under £10k
 Hi! This is a short guide to our approach to build a low-cost user research studio. We've built a very usable user research studio for less than £10,000. It performs as well as a £100,000 studio, and even better.
 
 Here you'll find information about why we chose to build the studio, the studio setup and equipment used, and helpful documents for running a lab like ours, and lessons we learned.
